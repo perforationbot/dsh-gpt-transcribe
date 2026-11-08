@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "OpenAI GPT Transcribe 云端识别",
+    "description": "使用 OpenAI 的 GPT Transcribe 模型将录音转写为文字。"
+  }
+}

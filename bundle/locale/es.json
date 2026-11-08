@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Entrada de voz",
+    "description": "Transcribe grabaciones localmente con SenseVoice o en la nube con OpenAI GPT Transcribe.",
+    "detail": "docs/DETAIL.md"
+  }
+}

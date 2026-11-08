@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Voice input",
+    "description": "Transcribe recordings locally with SenseVoice or in the cloud with OpenAI GPT Transcribe.",
+    "detail": "docs/DETAIL.md"
+  }
+}

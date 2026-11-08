@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "OpenAI GPT Transcribe recognition",
+    "description": "Transcribe recordings with OpenAI's GPT Transcribe model."
+  }
+}

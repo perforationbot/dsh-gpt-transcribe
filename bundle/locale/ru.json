@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Голосовой ввод",
+    "description": "Расшифровывайте записи локально с помощью SenseVoice или в облаке с OpenAI GPT Transcribe.",
+    "detail": "docs/DETAIL.md"
+  }
+}

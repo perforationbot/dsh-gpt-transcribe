@@ -1,0 +1,11 @@
+{
+  "name": "dsh-gpt-transcribe",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Personal OpenAI GPT Transcribe provider patch for DeepSeek Harness",
+  "scripts": {
+    "install-plugin": "node install.mjs --profile superagent"
+  },
+  "license": "MIT"
+}

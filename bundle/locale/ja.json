@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "音声入力",
+    "description": "SenseVoice でローカルに、または OpenAI GPT Transcribe でクラウド上で録音を文字に変換します。",
+    "detail": "docs/DETAIL.md"
+  }
+}

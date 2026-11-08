@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Saisie vocale",
+    "description": "Transcrivez des enregistrements localement avec SenseVoice ou dans le cloud avec OpenAI GPT Transcribe.",
+    "detail": "docs/DETAIL.md"
+  }
+}
